@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "678761285840",
+    "project_id": "gym-app-87235",
+    "storage_bucket": "gym-app-87235.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678761285840:android:f2fcac0d61b533c1abb6d5",
+        "android_client_info": {
+          "package_name": "com.example.gym_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678761285840-msl0nmj3irib9hem7tk56rcq894af7ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDT1Uo5LpJTMH02HqL7jqQAG4pcmgx5Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678761285840-msl0nmj3irib9hem7tk56rcq894af7ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678761285840-3n1sh30paskoo7couuid2fnr60dlu23m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectGainglory"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678761285840:android:79342f1b0a8a9269abb6d5",
+        "android_client_info": {
+          "package_name": "com.example.project_gainglory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678761285840-msl0nmj3irib9hem7tk56rcq894af7ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDT1Uo5LpJTMH02HqL7jqQAG4pcmgx5Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678761285840-msl0nmj3irib9hem7tk56rcq894af7ct.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "678761285840-3n1sh30paskoo7couuid2fnr60dlu23m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectGainglory"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
